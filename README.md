@@ -2,25 +2,20 @@
 
 <br>
 
+<h2 align="center"><Strong>💎SNS list💎</Strong></h2>
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
+    <br>
     <a href="https://velog.io/@lsc90726" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaneei%2F&count_bg=%233DC86E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>👇Contact Me👇</Strong><br>lsc90726@gmail.com<br>
+<h3 align="center"><Strong align="center">🗨Contact Me🗨</Strong></h3><h3 align="center">lsc90726@gmail.com</h3>
 </p>
 
 <br>
 
 <p align="center">
-반갑습니다!!! 이승찬🙂입니다!!!
-</p>
-
-<br>
-
-<p align="center">
-    <h3 align="center"><Strong>⚒️Tech Stack⚒️</Strong></h3><br>
-    <h3 align="center">💡used as the main</h3>
+    <h2 align="center"><Strong>⚒️Tech Stack⚒️</Strong></h2>
+    <h3 align="center">✔used as the main</h3>
 </p>
 
 <p align="center" display="inline-block">
@@ -36,8 +31,9 @@
 </p><br>
 
 <p align="center">
-    <h3 align="center">💡used at least once</h3>
-    <br><br>
+   <h3 align="center">✔used at least once</h3>
+</p>
+<p align="center" display="inline-block"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -47,7 +43,6 @@
     <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=white">
     <img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white">
 </p>
-
 <br>
 
 <div align=center>
