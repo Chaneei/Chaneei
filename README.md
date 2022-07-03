@@ -19,8 +19,8 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
+    <h3><Strong>⚒️Tech Stack⚒️</Strong></h3><br>
+    <h3>💡used as the main</h3>
 </p>
 
 <p align="center" display="inline-block">
@@ -36,7 +36,7 @@
 </p><br>
 
 <p align="center">
-    💡used at least once
+    <h3>💡used at least once</h3>
     <br><br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
