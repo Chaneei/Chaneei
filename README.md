@@ -48,5 +48,5 @@
 
 <div align=center>
 
-![Chaneei's github stats](https://github-readme-stats.vercel.app/api?username=Chaneei&show_icons=true)
+![Chaneei's github stats](https://github-readme-stats.vercel.app/api?username=Chaneei&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaneei&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Chaneei/github-readme-stats)
