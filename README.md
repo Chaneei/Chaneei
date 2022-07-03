@@ -5,7 +5,7 @@
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://velog.io/@lsc90726" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="https://www.instagram.com/jn_sept/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaneei%2F&count_bg=%233DC86E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
@@ -49,4 +49,4 @@
 <div align=center>
 
 ![Chaneei's github stats](https://github-readme-stats.vercel.app/api?username=Chaneei&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaneei)](https://github.com/Chaneei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaneei&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Chaneei/github-readme-stats)
