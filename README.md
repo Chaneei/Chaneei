@@ -52,5 +52,5 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![Chaneei's github stats](https://github-readme-stats.vercel.app/api?username=Chaneei&show_icons=true)
 
