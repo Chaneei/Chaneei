@@ -9,12 +9,12 @@
 
 </p>
 
-<br>
+<hr>
 <div>
 <div style="float:left">
 <p align="center">
     <h3 align="center">Tech Stack</h3>
-    <h3 align="center">✔used as the main</h3>
+    <h3 align="center">🌝used as the main</h3>
 </p>
 
 <p align="center" display="inline-block">
@@ -32,7 +32,7 @@
 
 <div style="float:right">
 <p align="center">
-   <h3 align="center">✔used at least once</h3>
+   <h3 align="center">🌚used at least once</h3>
 </p>
 <p align="center" display="inline-block"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
