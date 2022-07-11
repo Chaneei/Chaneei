@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Chaneei's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<h3 align="center"><Strong>Contact Me</Strong></h3>
+<h3 align="center"><Strong>Contact Chan CC🔥</Strong></h3>
 <p align="center">
     <br>
     <a href="https://velog.io/@lsc90726" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
