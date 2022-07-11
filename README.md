@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Chaneei's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<br>
-
 <h2 align="center"><Strong>💎SNS list💎</Strong></h2>
 <p align="center">
     <br>
